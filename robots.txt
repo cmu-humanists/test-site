@@ -1,1 +1,1 @@
-Sitemap: http://cmuhl.org/test-site/sitemap.xml
+Sitemap: https://cmuhl.org/test-site/sitemap.xml
